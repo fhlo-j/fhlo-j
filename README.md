@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Taiwo 👋
 
-<!--
-**fhlo-j/fhlo-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack MERN & Webflow Developer with 5+ years of experience building
+production-ready web applications, admin dashboards, and business websites.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- React, Next.js, Tailwind CSS
+- Node.js, Express, MongoDB
+- Webflow (CMS, SEO, Animations)
+- Cloudinary, Firebase, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Projects
+- **Estate Management System** – Full-stack platform for estate operations and admin dashboards  
+- **Diadem Food Ordering Service** – End-to-end food ordering platform  
+- **Ruthie’s Seed Food Ordering Service** – Scalable ordering system for a food business  
+- **Tetelestai Ministry Website** – Webflow CMS website for sermons and events  
+
+## 🌍 Currently
+- Building scalable full-stack systems
+- Open to long-term remote opportunities
+
+📫 Reach me: laposhe01@gmail.com
